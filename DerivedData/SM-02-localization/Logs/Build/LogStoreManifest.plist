@@ -5,6 +5,75 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>3C95034E-89AA-4E67-9B05-2FE31A66B8F4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3C95034E-89AA-4E67-9B05-2FE31A66B8F4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SM-02-localization project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SM-02-localization</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SM-02-localization</string>
+			<key>timeStartedRecording</key>
+			<real>656326654.38689494</real>
+			<key>timeStoppedRecording</key>
+			<real>656326694.23893404</real>
+			<key>title</key>
+			<string>Build SM-02-localization</string>
+			<key>uniqueIdentifier</key>
+			<string>3C95034E-89AA-4E67-9B05-2FE31A66B8F4</string>
+		</dict>
+		<key>A13F5467-331B-4883-95C5-4E8848CB1EAA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A13F5467-331B-4883-95C5-4E8848CB1EAA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SM-02-localization project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SM-02-localization</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SM-02-localization</string>
+			<key>timeStartedRecording</key>
+			<real>656329000.17189705</real>
+			<key>timeStoppedRecording</key>
+			<real>656329031.47411299</real>
+			<key>title</key>
+			<string>Build SM-02-localization</string>
+			<key>uniqueIdentifier</key>
+			<string>A13F5467-331B-4883-95C5-4E8848CB1EAA</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
